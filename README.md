@@ -9,12 +9,12 @@
 
 * Copy all of the location_x.json files from the Data Acquisition lab and paste them into the ./data/locations directory.
 
-### Exercise 1
+### Part 1
 
 * Open the notebook called *loading_locations_data_into_dataframes.ipynb*
 * Follow the directions provided in the notebook and complete the cells as directed.
 
-### Exercise 2
+### Part 2
 
 * Open the notebook called *loading_pickled_data.ipynb*
 * * Follow the directions provided in the notebook and complete the cells as directed.
